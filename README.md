@@ -1,2 +1,2 @@
 # Technical-Documentation-Page
-Technical Documentation page
+Technical Documentation page based on Javascript
